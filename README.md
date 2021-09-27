@@ -1,2 +1,2 @@
 # cursonode
-Repositório do curso de NodeJs
+Repositório da trilha completa de NodeJs
